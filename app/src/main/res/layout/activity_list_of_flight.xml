@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".list_of_flight">
+
+    <TextView
+        android:id="@+id/indigo"
+        android:layout_width="394dp"
+        android:layout_height="95dp"
+        android:layout_marginTop="40dp"
+        android:text="Flight Indigo\nNon Stop\nPrice : ₹4500"
+        android:textSize="24dp"
+        android:background="@color/teal_700"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/airasia"
+        android:layout_width="394dp"
+        android:layout_height="95dp"
+        android:layout_marginTop="32dp"
+        android:text="Flight AirAsia\nNon Stop\nPrice : ₹5500"
+        android:textSize="24dp"
+        android:background="@color/teal_700"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.529"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/indigo" />
+
+    <TextView
+        android:id="@+id/spicejet"
+        android:layout_width="394dp"
+        android:layout_height="95dp"
+        android:layout_marginTop="32dp"
+        android:text="Flight SpiceJet\n1 Stop\nPrice : ₹3500"
+        android:textSize="24dp"
+        android:background="@color/teal_700"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.529"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/airasia" />
+</androidx.constraintlayout.widget.ConstraintLayout>
