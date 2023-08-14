@@ -3,10 +3,6 @@ This application is a comprehensive Airway reservation Android app designed to p
 
 The Airway Reservation app simulation showcases the complexity of a real flight booking Android app, demonstrating the skills in user interface design, backend simulation, and data management.
 
-
-![Screenshot_20230814_104934](https://github.com/sanjana459/Airway-Reservation-Android-App/assets/85347345/40fb5813-3add-4f1c-8f80-8c0831d3e872)
-
-
  steps to import a project on Android Studio:-
 1. Click on the "Code" button (green button) and select "Download ZIP."
 2. Once the ZIP file is downloaded, extract its contents to a location on your computer where you'd like to work on the project.
@@ -18,10 +14,16 @@ The Airway Reservation app simulation showcases the complexity of a real flight 
 8. If prompted, configure the Android SDK and select an emulator or a connected device to run the app.
 9. Android Studio will build the project and launch the app on the selected emulator or device.
 
+
+![Screenshot_20230814_104934](https://github.com/sanjana459/Airway-Reservation-Android-App/assets/85347345/40fb5813-3add-4f1c-8f80-8c0831d3e872)
+
 ![booking](https://github.com/sanjana459/Airway-Reservation-Android-App/assets/85347345/0c9ca2a2-34f6-4df1-8c38-b614680d5c19)
 
 
 ![Screenshot_20230814_110437](https://github.com/sanjana459/Airway-Reservation-Android-App/assets/85347345/cadeaa8c-7e90-4196-94bd-6fedd2e2615f)
+
+
+
 
 
 
